@@ -1,85 +1,77 @@
-# Hi, I'm Kean Caballero 👋
+# Hi, I'm Kean Caballero
 
 ### BSIT Student • Full-Stack Developer • System Analyst
 
-I build practical web systems, IoT projects, and interactive experiences.
+I build web applications and information systems focused on practical
+solutions, clean user experiences, and reliable functionality.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 RecoverEase
+### RecoverEase
+Post-treatment care platform designed to help patients manage their
+recovery through organized treatment information, reminders,
+notifications, and progress tracking.
 
-Post-treatment care platform designed to help patients manage their recovery.
-
-**Tech:** React • TypeScript • Supabase • PostgreSQL • Vercel
+**Tech Stack:** React • TypeScript • Supabase • PostgreSQL • Vercel
 
 [Live Demo](https://recoverease-web.vercel.app/)
 
 ---
 
-### 👕 CampusWear
+### CampusWear
+University uniform management and ordering platform built around
+student accounts, university-specific workflows, and administrative
+management.
 
-University uniform ordering and management platform.
-
-**Tech:** React • Vite • Tailwind CSS • Supabase • PostgreSQL
-
----
-
-### 💰 SaveWise
-
-Personal finance management application focused on tracking, saving, and financial organization.
-
-**Tech:** React • Vite • Tailwind CSS • Supabase
+**Tech Stack:** React • Vite • Tailwind CSS • Supabase • PostgreSQL
 
 ---
 
-### 🎮 Roblox Projects
+### SaveWise
+Personal finance web application designed to help users track
+expenses, organize finances, and monitor their savings.
 
-Multiplayer games and gameplay systems built with Roblox Studio.
-
-**Focus:** Gameplay • Systems • Optimization • UI
+**Tech Stack:** React • Vite • Tailwind CSS • Supabase
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 ### Languages
-
-`JavaScript` `TypeScript` `PHP` `SQL` `C++` `Lua`
+`JavaScript` `TypeScript` `PHP` `SQL` `C++`
 
 ### Frontend
-
 `React` `Angular` `Vite` `Tailwind CSS`
 
 ### Backend & Database
-
 `Node.js` `Express` `MySQL` `PostgreSQL` `Supabase`
 
-### Tools
-
-`Git` `GitHub` `VS Code` `Figma` `XAMPP` `Arduino` `ESP32`
-
----
-
-## 📌 Currently Working On
-
-- Full-stack web applications
-- Capstone development
-- AI-assisted applications
-- IoT and ESP32 projects
-- Roblox game development
+### Tools & Platforms
+`Git` `GitHub` `VS Code` `Figma` `XAMPP` `Arduino` `ESP32` `Vercel`
 
 ---
 
-## 📊 GitHub Stats
+## Areas of Focus
 
-![Kean's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeanCaballero&show_icons=true&hide_border=true)
+- Full-Stack Web Development
+- Database-Driven Applications
+- System Analysis & Design
+- UI/UX Development
+- API Development
+- IoT & Embedded Systems
+
+---
+
+## GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeanCaballero&show_icons=true&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeanCaballero&layout=compact&hide_border=true)
 
 ---
 
-## 🌐 Links
+## Contact
 
 [GitHub](https://github.com/KeanCaballero)
