@@ -115,27 +115,21 @@ Web Application
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=KeanCaballero&show_icons=true&hide_border=true&count_private=true"
-  height="165"
-/>
+<a href="https://github.com/KeanCaballero?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeanCaballero&layout=compact&hide_border=true"
-  height="165"
-/>
+&nbsp;
 
-</div>
+<a href="https://github.com/KeanCaballero?tab=projects">
+  <img src="https://img.shields.io/badge/View%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
----
+&nbsp;
 
-## CONTRIBUTION STREAK
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=KeanCaballero&hide_border=true"
-/>
+<a href="https://github.com/KeanCaballero?tab=stars">
+  <img src="https://img.shields.io/badge/View%20Starred%20Projects-444444?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -143,7 +137,7 @@ Web Application
 
 ## PROFILE
 
-BSIT student interested in full-stack development, system design,
+BSIT student focused on full-stack development, system design,
 databases, and practical software solutions.
 
 I enjoy turning ideas into functional systems and continuously
@@ -157,8 +151,8 @@ improving my development and problem-solving skills.
 
 <a href="https://github.com/KeanCaballero">GitHub</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://recoverease-web.vercel.app/">Project</a>
+<a href="https://recoverease-web.vercel.app/">RecoverEase</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-Portfolio
+<a href="https://github.com/KeanCaballero?tab=repositories">Repositories</a>
 
 </div>
