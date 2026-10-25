@@ -1,173 +1,246 @@
 <div align="center">
 
-# KEAN CABALLERO
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=KEAN%20CABALLERO&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20SYSTEM%20ANALYST%20%7C%20BSIT%20STUDENT&descAlignY=60&descSize=14" width="100%" alt="Kean Caballero profile banner" />
 
-### Full-Stack Developer · System Analyst · BSIT Student
+<br>
 
-Building practical web applications and database-driven systems
-while continuously improving my software development skills.
+### Building practical software. Learning by building. Improving through every iteration.
+
+I build web applications, explore backend systems, and turn real-world
+problems into practical software solutions.
+
+<br>
 
 <a href="https://github.com/KeanCaballero">
-  <img src="https://img.shields.io/badge/GitHub-KeanCaballero-181717?style=flat-square&logo=github" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://github.com/recovereasedev/RecoverEase">
-  <img src="https://img.shields.io/badge/Capstone-RecoverEase-2563EB?style=flat-square&logo=github&logoColor=white" alt="RecoverEase Repository" />
+  <img src="https://img.shields.io/badge/RecoverEase-Capstone-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="RecoverEase source code" />
+</a>
+<a href="https://recoverease-web.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Project-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="RecoverEase live application" />
 </a>
 
 </div>
 
 ---
 
-## ABOUT ME
+## `01` — ABOUT ME
 
-I'm a Bachelor of Science in Information Technology (BSIT) student
-focused on full-stack development, system analysis, database design,
-and building practical software solutions.
+I'm a Bachelor of Science in Information Technology student focused on
+full-stack development, system analysis, and database-driven applications.
 
-I learn by working on real projects, understanding how different
-parts of an application work together, and improving my code through
-debugging, testing, and iteration.
+I learn by building real projects, understanding how their components
+work together, debugging problems, and improving the quality of my code.
 
-- Interested in frontend development, backend APIs, and database systems.
-- Building web applications that solve practical problems.
-- Focused on maintainable code, security, usability, and reliable workflows.
-- Continuously strengthening my technical knowledge through hands-on projects.
+- **Development:** Frontend applications, backend APIs, and database systems.
+- **Problem solving:** Analyzing requirements and implementing practical solutions.
+- **Engineering:** Learning about testing, access control, and maintainable code.
+- **Growth:** Using feedback and hands-on practice to strengthen my skills.
 
-## TECH STACK
+My goal is to grow into a dependable software developer who can understand
+a problem, build a solution, and explain the technical decisions behind it.
 
-### Frontend Development
+---
+
+## `02` — FEATURED PROJECTS
+
+These projects represent different parts of my software development journey:
+a healthcare capstone, a university operations MVP, and backend API development.
+
+### 01. RecoverEase
+
+**Post-Treatment Care Management Platform · Capstone Project**
+
+A web application designed to help patients and healthcare professionals
+manage post-treatment recovery workflows.
+
+**Key capabilities**
+- Treatment plans and recovery progress monitoring.
+- Medication tracking and appointment management.
+- Notifications, reminders, and system announcements.
+- AI-assisted recovery guidance with appropriate clinical boundaries.
+
+**Technology**
+
+React · TypeScript · Supabase · PostgreSQL · Gemini · Vercel
+
+**My role:** Lead programmer and system analyst for our BSIT capstone team.
+
+I contribute to system analysis, implementation, debugging, and testing.
+The project is designed to support recovery management, not to diagnose
+medical conditions or replace professional healthcare advice.
+
+<a href="https://github.com/recovereasedev/RecoverEase">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="RecoverEase source code" />
+</a>
+<a href="https://recoverease-web.vercel.app">
+  <img src="https://img.shields.io/badge/OPEN_APPLICATION-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="RecoverEase live application" />
+</a>
+
+---
+
+### 02. CampusWear
+
+**University Uniform Ordering and Inventory Management**
+
+A student-built MVP exploring how a university uniform ordering workflow
+can connect students with vendors through a shared web application.
+
+**Key capabilities**
+- Product catalog and size-level inventory.
+- Pickup ordering and order status tracking.
+- QR-based pickup verification.
+- Vendor product and order management.
+
+**Technology**
+
+React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL
+
+**Engineering focus:** Application workflows, data management, inventory
+consistency, and database-enforced access control.
+
+<a href="https://github.com/KeanCaballero/CampusWear">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="CampusWear source code" />
+</a>
+<a href="https://campuswear.vercel.app">
+  <img src="https://img.shields.io/badge/OPEN_DEMO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="CampusWear demo" />
+</a>
+
+---
+
+### 03. Node MySQL API
+
+**REST API · Authentication · Backend Development**
+
+A backend project demonstrating the implementation of REST endpoints
+and account-management workflows.
+
+**Key capabilities**
+- Account registration and email verification.
+- JWT authentication and refresh tokens.
+- Password reset and account management endpoints.
+- Swagger-based API documentation.
+
+**Technology**
+
+Node.js · TypeScript · Express · MySQL/MariaDB · Sequelize
+
+**Engineering focus:** API design, authentication flows, backend logic,
+and database integration.
+
+<a href="https://github.com/KeanCaballero/node-mysql-api">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Node MySQL API source code" />
+</a>
+<a href="https://ipt-2026-backend.vercel.app/api-docs">
+  <img src="https://img.shields.io/badge/API_DOCUMENTATION-0F766E?style=for-the-badge&logo=swagger&logoColor=white" alt="API documentation" />
+</a>
+
+---
+
+### 04. SaveWise
+
+**Personal Finance and Savings Management Prototype**
+
+An application exploring ways to organize personal finances, including
+income, expenses, budgets, savings goals, bills, loans, and subscriptions.
+
+**Technology**
+
+React · JavaScript · Vite · Tailwind CSS · Supabase · PostgreSQL
+
+This project provides experience with financial data models, application
+state, dashboards, and database integration. It remains a prototype;
+its multi-user access controls need further security hardening before
+it should be used with real financial information.
+
+<a href="https://github.com/KeanCaballero/SaveWise">
+  <img src="https://img.shields.io/badge/VIEW_SOURCE-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="SaveWise source code" />
+</a>
+<a href="https://save-wise-rho.vercel.app">
+  <img src="https://img.shields.io/badge/OPEN_DEMO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="SaveWise demo" />
+</a>
+
+---
+
+## `03` — TECHNOLOGY STACK
+
+Technologies I use in my projects and continue to develop experience with.
+
+### Frontend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite&perline=7" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite&theme=dark&perline=7" alt="Frontend technologies" />
 
 </div>
 
-### Backend and Databases
+### Backend and databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,supabase&perline=6" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,supabase&theme=dark&perline=6" alt="Backend and database technologies" />
 
 </div>
 
-### Tools and Embedded Systems
+### Tools and embedded systems
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,arduino,cpp&perline=5" alt="Development tools and embedded systems" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,arduino,cpp&theme=dark&perline=5" alt="Development tools and embedded systems" />
 
 </div>
 
 ---
 
-## SELECTED PROJECTS
+## `04` — HOW I APPROACH DEVELOPMENT
 
-### 1. RecoverEase — Capstone Project
+I use AI coding assistants such as ChatGPT and Claude as learning
+and development tools.
 
-A post-treatment care management platform designed to connect
-patients, doctors, and administrators through organized recovery
-workflows and patient monitoring.
+My workflow involves:
 
-**Key areas**
-- Treatment plans and recovery progress monitoring
-- Medication tracking and appointment management
-- Notifications, reminders, and system announcements
-- AI-assisted recovery guidance
+- **Understand:** Clarify requirements and learn the relevant concepts.
+- **Implement:** Build features and integrate application components.
+- **Review:** Examine suggested code and understand its behavior.
+- **Debug:** Investigate errors, trace causes, and refine solutions.
+- **Verify:** Test changes and check that existing functionality remains intact.
 
-**Technology:** React · TypeScript · Supabase · PostgreSQL · Gemini · Vercel
-
-**My role:** Lead programmer and system analyst for our BSIT capstone project.
-
-[View Source Code](https://github.com/recovereasedev/RecoverEase) |
-[Open Live Application](https://recoverease-web.vercel.app)
-
-### 2. CampusWear — University Uniform Management
-
-A student-built MVP for university uniform ordering and campus
-inventory management. It supports student ordering workflows and
-vendor operations for order fulfillment.
-
-**Key areas**
-- Product catalog and size-level inventory
-- Pickup ordering and order status tracking
-- QR-based pickup verification
-- Vendor product and order management
-
-**Technology:** React · TypeScript · Vite · Tailwind CSS · Supabase · PostgreSQL
-
-[View Source Code](https://github.com/KeanCaballero/CampusWear) |
-[Open Live Application](https://campuswear.vercel.app)
-
-### 3. Node MySQL API — REST API
-
-A backend project demonstrating REST API development with account
-management, authentication, and role-based access control.
-
-**Key areas**
-- Account registration and email verification
-- JWT authentication and refresh tokens
-- Password reset and account management endpoints
-- Interactive API documentation with Swagger
-
-**Technology:** Node.js · TypeScript · Express · MySQL/MariaDB · Sequelize
-
-[View Source Code](https://github.com/KeanCaballero/node-mysql-api) |
-[API Documentation](https://ipt-2026-backend.vercel.app/api-docs) |
-[Frontend Demo](https://ipt-2026-frontend.vercel.app)
-
-### 4. SaveWise — Personal Finance Prototype
-
-A personal finance application for organizing income, expenses,
-budgets, savings goals, bills, loans, and subscriptions.
-
-**Key areas**
-- Transaction and budget management
-- Savings goals and financial summaries
-- Bills, loans, and subscription tracking
-- Demo mode and Supabase integration
-
-**Technology:** React · JavaScript · Vite · Tailwind CSS · Supabase · PostgreSQL
-
-[View Source Code](https://github.com/KeanCaballero/SaveWise) |
-[Open Demo](https://save-wise-rho.vercel.app)
+AI assistance is part of my workflow, not a replacement for learning.
+I aim to understand the code I use, explain my implementation choices,
+and improve my ability to solve problems independently.
 
 ---
 
-## HOW I APPROACH DEVELOPMENT
-
-I believe that building software involves more than making an
-application work. It also means understanding the code, investigating
-problems, validating behavior, and learning from mistakes.
-
-I use AI coding assistants such as ChatGPT and Claude to help me
-understand unfamiliar concepts, explore possible solutions, and
-troubleshoot issues.
-
-I remain responsible for understanding the code I use, reviewing
-suggested changes, testing features, and making implementation
-decisions. My goal is to become a more independent and capable
-developer through continued practice.
-
-## AREAS OF FOCUS
-
-- Full-stack web application development
-- REST API design and implementation
-- Database design and access control
-- Authentication and authorization
-- Software testing and debugging
-- System analysis and technical documentation
-- IoT and embedded systems
-
-## GITHUB
-
-Explore my repositories to see my projects, experiments, and ongoing
-learning in software development.
+## `05` — AREAS OF FOCUS
 
 <div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| **Frontend** | Responsive interfaces and reusable components |
+| **Backend** | REST APIs and application logic |
+| **Databases** | Data modeling, SQL, and access control |
+| **Security** | Authentication and authorization |
+| **Quality** | Testing, debugging, and maintainability |
+| **System Analysis** | Requirements, workflows, and technical documentation |
+
+</div>
+
+---
+
+## `06` — GITHUB OVERVIEW
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KeanCaballero&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeanCaballero&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Most used repository languages" />
+
+<br>
 
 <a href="https://github.com/KeanCaballero?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
 </a>
 
 </div>
@@ -176,6 +249,10 @@ learning in software development.
 
 <div align="center">
 
-*Learning continuously. Building practically. Improving with every project.*
+### Thanks for visiting my profile.
+
+**Learning continuously. Building practically. Improving every day.**
+
+<sub>BSIT Student · Full-Stack Development · System Analysis</sub>
 
 </div>
